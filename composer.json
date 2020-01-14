@@ -1,0 +1,19 @@
+{
+    "name": "preloader/preloader",
+    "type": "project",
+    "description": "PHP preloading magic",
+    "keywords": ["php", "preload"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Michael Moravec",
+            "email": "oss@majkl.me"
+        }
+    ],
+    "require": {
+        "php": "^7.4.1"
+    },
+    "config": {
+        "sort-packages": true
+    }
+}
